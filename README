@@ -1,0 +1,17 @@
+CopyStack provides the ability to stash a list of copied items from the system clipboard. This utility app saves a list of items that were saved by you by applying regular copy functionality. In this alpha release, you are limited to 5 clipboard items. It is a handy tool for multiple copying and single pasting.
+
+To copy an item to your clipboard within any application you can press command+c or right-click your mouse and click “copy”.
+
+Copy Stack will pull your recent copy and stash it into a buffer. When you’re ready to paste an item from your stack, apply the shortcut key shift+alt and the number of the stash item you want to paste.
+
+Please be aware this is a pre-alpha app. It is a rough draft of what is to come. Send you feedback to anthony.cintron@gmail.com. I would love to hear your thoughts and improve this neat utility.
+
+KEY MENU:
+
+Pull copy stash from buffer:
+
+shift + command + [0,1,2,3,4]
+
+Clear clipboard
+
+alt+c
